@@ -8,11 +8,11 @@ This is a personal learning project built step-by-step to understand agentic AI 
 
 ---
 
-## Demo
+<!-- ## Demo
 
 *(Add a short screen-recording GIF or video link here once you have one — see `/demo`)*
 
----
+--- -->
 
 ## Table of Contents
 
